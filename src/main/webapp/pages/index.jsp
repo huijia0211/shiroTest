@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>欢迎登陆，${user.username}</h1>
+<a href="localhost:8080/admin">aaaa</a>
 </body>
 </html>
